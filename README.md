@@ -1,8 +1,8 @@
 Spark-GPU
 ============
 
-The purpose of this project is investigate the gains from GPU-acceleration 
-in case of [Apache Spark](http://spark.apache.org).
+The purpose of this project is to investigate the performance gains from GPU acceleration 
+of [Apache Spark](http://spark.apache.org).
 A few applications, namely WordCount, KMeans-Clustering, and Floating-point Sorting 
 are evaluated. In addition a number GPU-compatible functions for Spark's Resilient Distributed 
 Datasets (RDD) have been implemented. 
